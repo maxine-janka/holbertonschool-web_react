@@ -1,0 +1,1 @@
+This repository contains projects for Typescript. By Maxine Janka. For Holberton School Australia.

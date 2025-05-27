@@ -1,0 +1,1 @@
+This directory contains all projects in Typescript. By Maxine Janka. For Holberton School Australia.
